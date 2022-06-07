@@ -1,8 +1,8 @@
 baseURL: /
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
+title: Where From Here
+author: Emma Patterson
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
@@ -33,14 +33,14 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: Gaijin Mom - Trying to figure out what the heck I'm doing
   favicon: /img/favicon.ico
   headingFontFamily: sans-serif
   logo: /img/blogophonic-mark-dark.png
   mainSections:
     - blog
-    - project
-    - talk
+    # - project
+    # - talk
   math:
     renderer: katex
   navallcaps: yes
@@ -50,25 +50,25 @@ params:
   social:
     - icon: github
       icon_pack: fab
-      url: https://github.com/apreshill/apero
-    - icon: facebook-square
-      icon_pack: fab
-      url: https://www.facebook.com/hashtag/ap%C3%A9ro
-    - icon: instagram
-      icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
-    - icon: twitter
-      icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
-    - icon: impactstory
-      icon_pack: ai
-      url: https://impactstory.org/u/0000-0002-8082-1890
-    - icon: orcid
-      icon_pack: ai
-      url: http://orcid.org/0000-0002-8082-1890
-    - icon: rss
-      icon_pack: fas
-      url: /blog/index.xml
+      url: https://github.com/sprucemister/MyBlogdown
+    # - icon: facebook-square
+    #   icon_pack: fab
+    #   url: https://www.facebook.com/hashtag/ap%C3%A9ro
+    # - icon: instagram
+    #   icon_pack: fab
+    #   url: https://www.instagram.com/explore/tags/apero/
+    # - icon: twitter
+    #   icon_pack: fab
+    #   url: https://twitter.com/hashtag/apéro
+    # - icon: impactstory
+    #   icon_pack: ai
+    #   url: https://impactstory.org/u/0000-0002-8082-1890
+    # - icon: orcid
+    #   icon_pack: ai
+    #   url: http://orcid.org/0000-0002-8082-1890
+    # - icon: rss
+    #   icon_pack: fas
+    #   url: /blog/index.xml
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
@@ -86,43 +86,43 @@ taxonomies:
   tag: tags
 menu:
   footer:
-    - name: License
-      title: License
-      url: /license/
-      weight: 1
+    # - name: License
+    #   title: License
+    #   url: /license/
+    #   weight: 1
     - name: Contact
       title: Contact form
       url: /contact/
       weight: 2
-    - name: Contributors
-      title: Contributors
-      url: /contributors/
-      weight: 3
+  #   - name: Contributors
+  #     title: Contributors
+  #     url: /contributors/
+  #     weight: 3
   header:
-    - name: About
-      title: About Blogophonic
-      url: /about/
-      weight: 1
+  #   - name: About
+  #     title: About Blogophonic
+  #     url: /about/
+  #     weight: 1
     - name: Blog
       title: Blog
       url: /blog/
       weight: 2
-    - name: Projects
-      title: Project Portfolio
-      url: /project/
-      weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
+  #   - name: Projects
+  #     title: Project Portfolio
+  #     url: /project/
+  #     weight: 3
+  #   - name: Talks
+  #     title: Talks
+  #     url: /talk/
+  #     weight: 4
+  #   - name: A collection
+  #     title: A collection
+  #     url: /collection/
+  #     weight: 5
+  #   - name: Elements
+  #     title: Element Page
+  #     url: /elements/
+  #     weight: 6
 privacy:
   disqus:
     disable: no
