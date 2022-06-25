@@ -17,9 +17,11 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: The R Markdown Team @RStudio
+  author: Emma Patterson
   description: "A blog that I write to share musings, inspirations, \nramblings,
-    and more. Grab a kombucha, \na coffee, or hot chocolate and enjoy!"
+    and more. Grab a kombucha, \na coffee, or hot chocolate and enjoy!\n\nTopics include: 
+    K-Pop, Restore Your Core, Bible, Tokyo, child training, birding, coffee, etc.
+    \n\nトピックス：Ｋ-ＰＯＰ、産後の腹筋のトレーニング、聖書、東京、子育て、鳥見、コーヒー"
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml

@@ -1,9 +1,11 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
+action_label: Check it out! &rarr;
+action_link: /blog
 action_type: text
-description: A blog that I write to share musings, inspirations, tags, ramblings,
-    and more. Grab a kombucha, coffee, or hot chocolate and enjoy!
+description: "A blog that I write to share musings, inspirations, tags, 
+    ramblings, on topics like:\n\n
+    K-Pop, Restore Your Core, Bible, Tokyo, child training, birding, coffee, etc.
+    \n\n Grab a kombucha, coffee, or hot chocolate and enjoy!\n\nごきげんよう！"
 image_left: true
 images:
 - img/rainy-nihon.jpg
