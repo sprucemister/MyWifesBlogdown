@@ -1,7 +1,7 @@
 ---
-author: The R Markdown Team @RStudio
+author: Emma Patterson
 cascade:
-  author: The R Markdown Team @RStudio
+  author: Emma Patterson
   show_author_byline: true
   show_comments: true
   show_post_date: true
@@ -18,13 +18,12 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: The R Markdown Team @RStudio
-  description: "This is a fully featured blog that supports categories,\ntags, series,
-    and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
-    the _index.md file in the /blog folder \nto edit this content. \n"
+  description: "A blog that I write to share musings, inspirations, \nramblings,
+    and more. Grab a kombucha, \na coffee, or hot chocolate and enjoy!"
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  title: A Sidebar for Your Thoughts
+  title: Where From Here
 thumbnail_left: true
 title: A Blog That Works
 ---

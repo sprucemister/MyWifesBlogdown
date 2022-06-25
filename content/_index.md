@@ -2,20 +2,19 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: A blog that I write to share musings, inspirations, tags, ramblings,
+    and more. Grab a kombucha, coffee, or hot chocolate and enjoy!
 image_left: true
 images:
-- img/revoir.jpg
+- img/rainy-nihon.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: これからどこ行こうか？
 text_align_left: false
-title: Hugo Apéro
+title: Where From Here
 type: home
+show_social_links: true # specify social accounts in site config
+
 ---
 
 ** index doesn't contain a body, just front matter above.
