@@ -2,10 +2,8 @@
 action_label: Check it out! &rarr;
 action_link: /blog
 action_type: text
-description: "A blog that I write to share musings, inspirations, tags, 
-    ramblings, on topics like:\n\n
-    K-Pop, Restore Your Core, Bible, Tokyo, child training, birding, coffee, etc.
-    \n\n Grab a kombucha, coffee, or hot chocolate and enjoy!\n\nごきげんよう！"
+description: "Hello there, I am Emma. \n\nI like to make lists and then forget about them.\n\n
+Welcome to the blog, Let's hang a bit."
 image_left: true
 images:
 - img/tochigi.jpeg

@@ -20,7 +20,7 @@ sidebar:
   author: Emma Patterson
   description: "これからどこへ行こうか\n\nA blog that I write to share musings, inspirations, \nramblings,
     and more. Grab a kombucha, \na coffee, or hot chocolate and enjoy!\n\nTopics include: 
-    K-Pop, Restore Your Core, Bible, Tokyo, child training, birding, coffee, etc."
+    Blackpink, Restore Your Core, Bible, Tokyo, child training, birding, coffee, etc."
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
