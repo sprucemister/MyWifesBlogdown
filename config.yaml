@@ -20,6 +20,8 @@ ignoreFiles:
   - renv\\.lock$
   - "(^|/)renv$"
   - "renv\\.lock$"
+  - README.md
+  - "README.md"
 enableEmoji: yes
 markup:
   defaultMarkdownHandler: goldmark
