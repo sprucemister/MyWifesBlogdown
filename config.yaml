@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://wherefromhere.netlify.app/
 theme: hugo-apero
 languageCode: en
 title: Where From Here
@@ -16,6 +16,10 @@ ignoreFiles:
   - _cache$
   - \.knit\.md$
   - \.utf8\.md$
+  - renv
+  - renv\\.lock$
+  - "(^|/)renv$"
+  - "renv\\.lock$"
 enableEmoji: yes
 markup:
   defaultMarkdownHandler: goldmark

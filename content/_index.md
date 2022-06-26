@@ -8,10 +8,9 @@ description: "A blog that I write to share musings, inspirations, tags,
     \n\n Grab a kombucha, coffee, or hot chocolate and enjoy!\n\nごきげんよう！"
 image_left: true
 images:
-- img/rainy-nihon.jpg
+- img/tochigi.jpeg
 show_action_link: true
-show_social_links: true
-subtitle: これからどこ行こうか？
+subtitle: これからどこへ行こうか？
 text_align_left: false
 title: Where From Here
 type: home
