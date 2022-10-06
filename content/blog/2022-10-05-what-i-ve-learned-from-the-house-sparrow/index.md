@@ -7,6 +7,8 @@ categories: [Daily Life]
 tags: []
 ---
 
+![](featured.jpg)
+
 So I like to draw birds. 
 
 I’m really into birds now. A birder kind of. 
