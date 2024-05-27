@@ -9,6 +9,8 @@ categories:
 tags: []
 ---
 
+![](featured.jpg)
+
 I’m weary and relieved. Judah finally has no fever for over 24 hours, so we head to the
 park. My son climbs a tree (he's in a delightfully nostalgic tree climbing phase). Leaning on
 a bouncing branch, he peers into the distance and sees grey-blue pigeons marching on the
